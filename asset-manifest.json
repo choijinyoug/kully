@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kully/static/css/main.0bb0b0ac.css",
+    "main.js": "/kully/static/js/main.85033b26.js",
+    "static/js/787.68a32353.chunk.js": "/kully/static/js/787.68a32353.chunk.js",
+    "index.html": "/kully/index.html",
+    "main.0bb0b0ac.css.map": "/kully/static/css/main.0bb0b0ac.css.map",
+    "main.85033b26.js.map": "/kully/static/js/main.85033b26.js.map",
+    "787.68a32353.chunk.js.map": "/kully/static/js/787.68a32353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb0b0ac.css",
+    "static/js/main.85033b26.js"
+  ]
+}
